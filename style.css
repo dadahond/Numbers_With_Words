@@ -1,0 +1,8 @@
+h1 {
+    display: grid;
+    place-self: center;
+    text-align: center;
+    font-size: 220px;
+    color: rgb(227, 47, 11);
+    font-family: "Courier New", Courier, monospace;
+}
